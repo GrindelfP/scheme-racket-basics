@@ -1,0 +1,6 @@
+= Notebook for Fucntional programming course =
+
+Here I will store my code form functional programming (FP) classes. 
+We are studying the Scheme/Racket language and the concepts of FP based 
+on the language.
+ 
